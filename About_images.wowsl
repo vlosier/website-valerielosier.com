@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>fade</CaptionsEffect>
+            <Controls>false</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>About_images</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/dodgy/</ImageTemplate>
+            <ImageTemplateName>Dodgy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Valerie/Google Drive/Website (1)/about.html</PublishFileName>
+            <PublishIndex>about.html</PublishIndex>
+            <PublishPath>C:/Users/Valerie/Google Drive/Website (1)</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>10</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#323232</TemplateColor>
+            <TemplateFont>Halvetica</TemplateFont>
+            <TemplateName>dodgy</TemplateName>
+            <ThumbAlign>right</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>1</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Valerie/Documents/Pictures/Good photos/1ProfilePictureFinal.JPG</url>
+                <title>1ProfilePictureFinal</title>
+                <filesize>4434289</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Valerie/Documents/Pictures/Good photos/IMG_0492.JPG</url>
+                <title>IMG_0492</title>
+                <filesize>6156309</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Valerie/Documents/Pictures/Good photos/1CoverPhoto.JPG</url>
+                <title>1CoverPhoto</title>
+                <filesize>5546969</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Valerie/Documents/Pictures/Good photos/IMG_0546.JPG</url>
+                <title>IMG_0546</title>
+                <filesize>4512981</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Valerie/Documents/Pictures/Good photos/IMG_0540.JPG</url>
+                <title>IMG_0540</title>
+                <filesize>5744748</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Valerie/Documents/Pictures/Photos/IMG_0462.JPG</url>
+                <title>IMG_0462</title>
+                <filesize>6473366</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Valerie/Documents/Pictures/Photos/IMG_0515.JPG</url>
+                <title>IMG_0515</title>
+                <filesize>5538173</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

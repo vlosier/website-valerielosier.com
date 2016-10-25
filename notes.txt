@@ -1,0 +1,23 @@
+Research Masters
+	- UVic poster -- download the revised version that ned sent, and screen shot that
+
+Projects
+- github link- make sure i have a github page
+
+
+Alex help
+- Github
+- how to edit the button in resume
+
+
+---------------------------------------------------------------------------------
+Reminders: 
+- when adding links, add target="_blank" after <a href="link" target="_blank"> name </a> so that the link opens in new tab. Do this for all links for uniformity.
+
+Non urgent: 
+- Captions on all photos
+- Add some photos (acadian chair, me at the green board, etc)
+- contact page:
+	https://sweetbasilvail.com/contact/
+	https://www.searchenginejournal.com/25-amazing-contact-us-pages/
+

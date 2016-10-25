@@ -1,0 +1,93 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  font-size:14px
+  /*color: #676858;*/
+font-weight: 300;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: 100;
+}
+
+h3 {
+  font-size: 15px;
+  margin-bottom: 0;
+  font-weight: 400;
+
+}
+
+h4 {
+  font-size: 15px;
+font-weight: 300;
+
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  font-size: 12px;
+}
+hfooter{
+  font-size : 12px;
+  font-weight : 300;
+}
+
+.toggle {
+  margin: 10px;
+}
+
+.resume {
+  width: 100%;
+  max-width: 800px;
+  color: black;
+    font-weight: 300;
+
+}
+
+.item-content {
+  display: inline-block;
+}
+
+.item-date {
+  display: inline-block;
+  float: right;
+}
+
+.skill {
+  margin-left: 20px;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -40px;
+  padding: 0 0 40px;
+}
+
+#footer {
+  height: 40px;
+}
+
+/* social media icons */
+.icons {
+  width: 100%;
+  font-size: 18px;
+  opacity: 0.75;
+}
+
+.icons:hover {
+  opacity: 1;
+}
